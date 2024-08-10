@@ -20,7 +20,3 @@ Las contribuciones son lo que hacen que la comunidad de código abierto sea un l
 
 ## Licencia
 Distribuido bajo la Licencia MIT. Consulte `LICENSE` para más información.
-
-## Contacto
-Tu Nombre – [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@example.com
-GitHub del proyecto: [https://github.com/tu_usuario/Planificadora](https://github.com/tu_usuario/Planificadora)
