@@ -9,6 +9,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 // Aquí se añaden los cambios que están en desarrollo y aún no se han lanzado en una versión estable.
 
+## EXAMPLE
 ## [1.0.0] - 2024-01-01
 ### Added
 - Funcionalidad de autenticación de usuario con Google.
